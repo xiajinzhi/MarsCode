@@ -1,5 +1,18 @@
+
+
+# 忽略所有 .safetensors 文件
+*.safetensors
+
+# 忽略所有 .bin 文件
+*.bin
+
+# 忽略所有.ckpt 文件
+*.ckpt
+.env
+
 # 忽略指定文件夹
 asset/
 mms-tts-eng/
+
 
 
